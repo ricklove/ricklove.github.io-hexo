@@ -4,6 +4,7 @@ date: 2017/04/26
 
 Imagine a world where any disease or illness that is visible in the blood would automatically be found and diagnosed at home during a routine preventative health self-check.
 
+{% img right /images/2017-04-26/bloodSlide_malaria.jpg 300 'Blood Infected with Malaria' %}
 
 ### Fast, Cheap, and Accurate Health Check
 
@@ -13,17 +14,18 @@ This could save billions of lives. (At least those who die from treatable illnes
 
 That is not far off. 
 
+{% img right /images/2017-04-26/bloodSlide_sickleCellAnemia.jpg 200 'Blood with Sicle Cell Anemia' %}
 
 ### In fact it is possible today, but no one has done it yet.
 
-What makes this possible is a combination of two technology industries that have made huge breakthroughs recently.
+What makes this possible is a combination of two fields that have made huge breakthroughs recently.
 
 - Machine Learning
 - Micro Robotics
 
-The first technology is called machine learning and more specifically deep learning using neural networks. This branch of AI is especially useful in finding patterns in images. It is used in everything from facial recognition to self driving cars to diagnosing lung cancer.
+The first technology is called machine learning and more specifically deep learning using neural networks. This branch of Artificial Intelligence is especially useful in finding patterns in images. It is used in everything from facial recognition to self driving cars to diagnosing lung cancer.
 
-But one area where this has yet to used broadly is in blood screening. From my research, I could only find an article using this technology to diagnose malaria specifically. 
+But one area where this has yet to be used broadly is in blood screening. From my research, I could only find an article using this technology to diagnose malaria specifically. 
 
 The second technology is micro robotics. These are small electronic systems like Adruino or Rasberry Pi that can be combined with sensors and motors to create just about any robotic gadget imaginable. 
 
@@ -53,7 +55,7 @@ Imagine a 3D printer on a very small scale. Attach any smart phone with a spheri
 
 For a single blood sample thousands of images could be uploaded and these images would then be analyzed by the machine to look for patterns associated with thousands of ailments. 
 
-This sample could easily be made with Adruino for less than 100 dollars today. 
+This device could easily be made with Adruino for less than 100 dollars today. 
 
 Hopefully, if it was mass produced it could be made for less than $5. 
 
@@ -100,9 +102,15 @@ Anything about the patient could be added to label those specific images. The sy
 
 This is how the machine learns to diagnose. When it sees this pattern again in a new image, it can add the associated labels and score it with a % match. These results could be sent to a human doctor to verify, but quickly it would surpass the ability of human diagnosticians.
 
-It will even find patterns that experts have never recognized before. Just like this system for lung cancer diagnostics:
+It will even find patterns that experts have never recognized before. Just like these systems for diagnosing lung cancer or sepsis:
 
-- Diagnosing Cancer with Machine Learning https://www.youtube.com/watch?v=aLSzh_tqwxw
+#### Diagnosing Cancer with Machine Learning
+
+{% youtube aLSzh_tqwxw %}
+
+#### Prevent Sepsis Using EKG with Machine Learning
+
+{% youtube Nj2YSLPn6OY %}
 
 
 ### Beyond Diagnostics
@@ -146,21 +154,3 @@ This idea covers as broad a mechanism as possible to declare any usage as free f
 - For any metric (i.e. blood count, disease prognosis, infection prognosis, etc.)
 - Analyzed with any software (i.e. neural network, genetic algorithms, etc.)
 - To generate any recommendation (i.e. medicine prescriptions, treatment schedule, etc.)
-
-### References
-
-#### Foldscope
-
-{% youtube h8cF5QPPmWU %}
-
-#### Paperfuge
-
-{% youtube L5ppD07DMKQ %}
-
-#### Diagnosing Cancer with Machine Learning
-
-{% youtube aLSzh_tqwxw %}
-
-#### Prevent Sepsis Using EKG with Machine Learning
-
-{% youtube Nj2YSLPn6OY %}
