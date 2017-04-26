@@ -68,8 +68,15 @@ In fact I just checked and around 2 billion people have smart phones which is mo
 
 In fact, here are some related products that actually sparked my idea:
 
-- FoldScope https://www.youtube.com/watch?v=h8cF5QPPmWU
-- Paperfuge https://www.youtube.com/watch?v=L5ppD07DMKQ
+#### Foldscope
+
+{% youtube h8cF5QPPmWU %}
+
+#### Paperfuge
+
+{% youtube L5ppD07DMKQ %}
+
+#### The Idea: Automated Blood Scanner
 
 So what is needed is a cheap device to go along with these that can use existing smart phones to upload blood images to the internet.
 
@@ -142,7 +149,18 @@ This idea covers as broad a mechanism as possible to declare any usage as free f
 
 ### References
 
-- FoldScope https://www.youtube.com/watch?v=h8cF5QPPmWU
-- Paperfuge https://www.youtube.com/watch?v=L5ppD07DMKQ
-- Diagnosing Cancer with Machine Learning https://www.youtube.com/watch?v=aLSzh_tqwxw
-- Prevent Sepsis Using EKG with Machine Learning: https://youtu.be/Nj2YSLPn6OY
+#### Foldscope
+
+{% youtube h8cF5QPPmWU %}
+
+#### Paperfuge
+
+{% youtube L5ppD07DMKQ %}
+
+#### Diagnosing Cancer with Machine Learning
+
+{% youtube aLSzh_tqwxw %}
+
+#### Prevent Sepsis Using EKG with Machine Learning
+
+{% youtube Nj2YSLPn6OY %}
