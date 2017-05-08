@@ -123,11 +123,11 @@ For example, if every person with malaria has a specific pattern in images of bl
 
 Someone with HIV and malaria could respond differently than a patient with high blood pressure for example. 
 
-This is where the diagnostic machine becomes a prescriptive expert. If a patient enters the medicine they are taking and continues to supply additional blood images, the machine can literally see the affect of different medicines in the blood. In fact, it could even learn to recognize the unique patterns that indicate the presence of specific medicine in the blood.
+This is where the diagnostic machine becomes a prescriptive expert. If a patient enters the medicine they are taking and continues to supply additional blood images, the machine can literally see the effect of different medicines in the blood. In fact, it could even learn to recognize the unique patterns that indicate the presence of specific medicine in the blood.
 
 The patient can also enter additional information like whether they are feeling better or worse; whether they are gaining weight, or losing it; whether they are back to normal life or laying in their death bed. 
 
-So as the medicine has it affect, it can be correlated with a success or failure for the treated ailment. But at the same time it is also correlating the information with everything else it knows about the patient. After millions of patients, it can quickly learn complex pattern and prescribe the best treatment for each person. For example, overweight patients with high blood pressure and heart disease may respond better to a specific medication with less side affects. On the other hand, an athletic person with HIV might need an entirely different medicine for the maximum success rate.
+So as the medicine has it's effect, it can be correlated with a success or failure for the treated ailment. But at the same time it is also correlating the information with everything else it knows about the patient. After millions of patients, it can quickly learn complex pattern and prescribe the best treatment for each person. For example, overweight patients with high blood pressure and heart disease may respond better to a specific medication with less side effects. On the other hand, an athletic person with HIV might need an entirely different medicine for the maximum success rate.
 
 
 ### Revolutionary and Should Exist Today
